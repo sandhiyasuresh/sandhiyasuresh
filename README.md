@@ -14,8 +14,8 @@
  <code><img width="45px" src="https://img.icons8.com/color/4x/000000/java.png" title="java"/></code>
  
   ### Find me here:
-<code><a href="https://www.linkedin.com/in/sandhiya-suresh-85b63a1ba/"><img width="45px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
-<code><a href="https://github.com/sandhhiyasuresh"><img width="45px" src="https://img.icons8.com/fluent/48/000000/github.png" title="github"/></a></code>
+<code><a href="https://www.linkedin.com/in/sandhiyasuresh"><img width="45px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
+<code><a href="https://github.com/sandhiyasuresh"><img width="45px" src="https://img.icons8.com/fluent/48/000000/github.png" title="github"/></a></code>
 <code><a href="https://www.instagram.com/sandhiya_suresh24/"><img width="45px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
 <code><a href="mailto:sandhiyasuresh2412@gmail.com"><img width="45px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
  
